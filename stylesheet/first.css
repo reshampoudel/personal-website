@@ -1,0 +1,178 @@
+
+
+ 
+     body{
+        font-family: 'Times New Roman', Times, serif, 
+      }
+     
+   
+     .nav-wrapper {
+       text-align:center; 
+       background: #1a1713;
+       margin-top: -9px;
+       margin-left: -9px;
+       margin-right: -5px;
+       overflow: hidden;
+       position: fixed;
+       top: 0;
+       width: 100%;
+
+   
+      } 
+      .nav-wrapper ul
+      {
+          list-style: none;
+          color:white;
+          font-size: 12px;
+          display: inline-flex;
+      }
+      .nav-wrapper ul li
+      {
+        width: 150px;
+        margin:0px;
+        margin-left: 3px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        font-size: 24px;
+        
+
+      }
+      .nav-wrapper ul li a
+      {
+          text-decoration: none;
+          color:darkgray;
+      }
+      .user
+      {
+       color: #34201B;
+       
+       margin-left: 20px;
+        
+       float: right; 
+      }
+      .user  ul
+    {
+          border-color: aliceblue;
+          padding-left: 20px;
+          padding-right: 20px;
+          margin-right: 20px;
+          margin-left: 20px;
+          
+      }
+
+       .user  ul li{
+          background-color:#1a1713;
+          border-radius: 10px;
+          border:1px;
+          margin-left: 8px;
+          margin-right: 8px;
+          padding-left:  4px;
+          padding-top: 5px;
+          padding-bottom: 5px;
+          border-style: solid;
+          border-color: rgb(162, 154, 177);
+          
+       }
+    
+      .nav-wrapper ul li:hover
+      {
+          background-color:#000000;
+          
+          
+          border-radius: 10px;
+      }
+
+
+#img
+{
+        margin-top:2px;
+        margin-bottom:2px;
+        margin-left: 40px; 
+        
+    }
+
+
+ footer #footer-social
+{
+      
+      font-size: 35px;
+        margin-left: 45%;
+        padding-top: 10px;
+}
+footer h3{
+    padding-top: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#goup
+{
+    margin-right: 30px;
+float:right;
+color: white;
+}
+#facebook{
+    height: 40px;
+    width: 40px;
+}
+
+
+.name
+{
+   text-align: center;
+   color:rgb(0, 0, 0);
+    
+  
+   font-size: 4vw;
+   margin-top: -100px;
+}
+.profile-image{
+    margin-top: -640px;
+    padding-top: -600px;
+}
+.profile-image  img 
+{
+    margin-left:600px;
+ 
+    border-radius: 50%;
+    width: 200px;
+    height: 200px; 
+
+ 
+}
+
+.introduction h1{
+    color:chocolate;
+    margin-left: 600px;
+    
+}
+.introduction  h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color:rgb(29, 23, 23);
+    margin-left: 300px;
+    margin-right: 100px;
+    text-align: justify;
+   
+}
+
+.footer{
+    margin-right: -15px;
+    margin-bottom: -10px;
+    margin-left: -5px;
+    padding: 0;
+    margin-top: 400px;
+    height: 200px;
+    background-color:#1a1713;
+    
+}
+.copyright{
+    color:white;
+    text-align: center;
+}
+.center {
+  
+  margin-left:110px;
+  margin-right:70px;
+  left: 50px;
+}

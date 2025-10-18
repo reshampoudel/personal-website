@@ -1,0 +1,30 @@
+
+        body{
+            background-color: #ffffff;
+            background-image: image();
+        }
+.showtime{
+    margin-top: 50px;
+    margin-left: 350px;
+    color:whitesmoke;
+
+}
+.bolgcontent{
+    
+    margin-top: 4px;
+    margin-right: 240px;
+    margin-left: 240px;
+   
+    background: #1a1713;
+    color:white;
+    padding:30px;
+}
+.edit{
+    margin-left:600px;
+     padding:10px;
+      width:100px;
+       background-color: cornflowerblue;
+       color:white;
+      font-size: 20px;
+
+}

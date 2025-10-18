@@ -1,0 +1,111 @@
+
+<style >
+
+
+
+    * {
+        padding: 0px;
+        margin: 0px;
+    
+     }
+    
+     body{
+       
+            background-color: #1a1713f3;
+        
+    
+        color: wheat;
+     }
+     form
+{ 
+    border:1vw;
+    
+    margin-left:330px;
+    margin-right:330px;
+    color:white;
+    font-family:"verdana";
+  
+    position: static;
+    
+    border-radius:6px;
+    padding: 1vw;
+    background:  #1a1713;
+    
+    }
+    input[type=text], select {
+        width: 60%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        height: 40px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      input[type=email] {
+        width: 60%;
+        height: 40px;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      textarea
+      {
+        width: 60%;
+        height: 100px;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      
+    form input
+    {
+        height: 25px;
+        width: 320px;
+        
+        border-collapse: collapse;
+        
+        
+        
+    }
+    form select
+    {
+        width:10vw;
+        height: 1.5vw;
+        margin-left: 2vw;
+        border-radius: 2vw;
+        
+    }
+    form .okbtn
+    {
+        background-color:  #1a1713;
+
+        height: 3vw;
+        width:8vw;
+        color:white;
+        border-radius: 1vw;
+        margin-left: 500px;
+    }
+
+.okbtn
+{
+    margin-left:10vw;
+       
+}
+h1
+{
+    color:white;
+    
+}
+ h{
+    font-size: 3vw;
+
+}
+
+</style>
